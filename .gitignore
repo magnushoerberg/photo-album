@@ -1,0 +1,12 @@
+*~
+*.swp
+.bundle
+*.sqlite3
+*.sqlite3-journal
+capybara*
+*.pdf
+*.rbc
+*.swo
+*.rdb
+.DS_Store
+/tmp
